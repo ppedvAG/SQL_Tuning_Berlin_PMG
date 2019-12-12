@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL Tuning BER_101220219">
+  <Items>
+    <LogicalFolder Name="Verbindungen" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="HV-SQL2019:HV-SQL2019\Administrator">
+          <Created>2019-12-10T08:41:38.2408123+01:00</Created>
+          <Type>SQL</Type>
+          <Server>HV-SQL2019</Server>
+          <UserName />
+          <Authentication>Windows-Authentifizierung</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Abfrage</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Abfragen" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="000(_Salamitaktik.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HV-SQL2019:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HV-SQL2019</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>000(_Salamitaktik.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0001_Orga.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HV-SQL2019:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HV-SQL2019</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0001_Orga.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0002_Serversettings.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HV-SQL2019:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HV-SQL2019</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0002_Serversettings.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0003_DBSettings.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HV-SQL2019:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HV-SQL2019</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0003_DBSettings.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0004_DBObjekte.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HV-SQL2019:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HV-SQL2019</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0004_DBObjekte.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0005_Indizes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HV-SQL2019:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HV-SQL2019</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0005_Indizes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0006_IX Wartung.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HV-SQL2019:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HV-SQL2019</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0006_IX Wartung.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0007_Monitoring.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HV-SQL2019:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HV-SQL2019</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0007_Monitoring.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Fehlende Indizes.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Fehlende Indizes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Teil 4 Überflüssige Indizes.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Teil 4 Überflüssige Indizes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Virt_logFiles.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HV-SQL2019:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HV-SQL2019</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Virt_logFiles.sql</FullPath>
+        </FileNode>
+        <FileNode Name="WAIT_STATS.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HV-SQL2019:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HV-SQL2019</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>WAIT_STATS.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Sonstiges" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
